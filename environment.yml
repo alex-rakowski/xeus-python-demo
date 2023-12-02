@@ -5,5 +5,4 @@ channels:
 dependencies:
   - ipycanvas
   - matplotlib
-  - h5py
   - pymatgen
